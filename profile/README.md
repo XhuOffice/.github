@@ -1,1 +1,3 @@
-There is XhuOffice homepage at GitHub.
+- Welcome to XhuOffice on GitHub!
+- Here are some of our sites:
+  - [XhuOffice](https://xhuoffice.tk/)
