@@ -1,4 +1,4 @@
 - Welcome to XhuOffice on GitHub!
 - Here are some of our sites:
-  - [XhuOffice](https://xhuoffice.tk/)
-  - [Xhu Navigation Website](https://inde.xhuoffice.tk/)
+  - [SЕSSのB10GТЕ5Т](https://sess.xhustudio.eu.org/)
+  - [Xhu Navigation Galaxy](https://inde.xhustudio.eu.org/)
