@@ -1,4 +1,4 @@
-- Welcome to XhuOffice on GitHub!
+- Welcome to Yukisino on GitHub!
 - Here are some of our sites:
   - [SЕSSのB10GТЕ5Т](https://sess.xhustudio.eu.org/)
   - [Xhu Navigation Galaxy](https://inde.xhustudio.eu.org/)
